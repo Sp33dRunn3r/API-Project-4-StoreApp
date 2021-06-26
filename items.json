@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "item_name": "apple",
+      "category": "fruit",
+      "price": "1 gold",
+      "health": "2 hearts",
+      "id": 1
+    },
+    {
+      "item_name": "carrot",
+      "category": "vegetable",
+      "price": "1 gold",
+      "health": "2 hearts",
+      "id": 2
+    },
+    {
+      "item_name": "cabbage",
+      "category": "vegetable",
+      "price": "1 gold",
+      "health": "2.5 hearts",
+      "id": 3
+    },
+    {
+      "item_name": "potatoes",
+      "category": "vegetable",
+      "price": "3 gold",
+      "health": "3.5 hearts",
+      "id": 4
+    },
+    {
+      "item_name": "cheese",
+      "category": "dairy",
+      "price": "3 gold",
+      "health": "3.5 hearts",
+      "id": 5
+    },
+    {
+      "item_name": "bread",
+      "category": "grain",
+      "price": "6 gold",
+      "health": "4.5 hearts",
+      "id": 6
+    },
+    {
+      "item_name": "chicken",
+      "category": "protein",
+      "price": "8 gold",
+      "health": "6 hearts",
+      "id": 7
+    },
+    {
+      "item_name": "steak",
+      "category": "protein",
+      "price": "12 gold",
+      "health": "8 hearts",
+      "id": 8
+    },
+    {
+      "item_name": "cake",
+      "category": "dessert",
+      "price": "20 gold",
+      "health": "9 hearts",
+      "id": 9
+    }
+  ]
+}
